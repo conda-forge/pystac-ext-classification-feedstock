@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.0.0"
+  version: "2.0.1"
 
 package:
   name: pystac-ext-classification
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-classification/pystac_ext_classification-${{ version }}.tar.gz
-  sha256: b744d42eb74fa5038cf00896f3cf4fbb85b79cf208454b7401bd8219e491eb94
+  sha256: be271440ef6f676e0d48e3238100e29c4f6a1a92626a1353c4728c4f8ea0fabe
 
 build:
   number: 0
